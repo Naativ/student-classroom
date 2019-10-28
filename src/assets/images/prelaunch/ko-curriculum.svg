@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1162" height="676" viewBox="0 0 1162 676">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-371-5719h1920v7951H-371z"/>
+        <text fill="#676767" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-.7" transform="translate(7 -3)">
+            <tspan x="12.442" y="190">네이티브 트랙</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-size="24" font-weight="300" letter-spacing="-1.2" transform="translate(7 -3)">
+            <tspan x="164.668" y="190">Early</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="143.95" y="527">Early/Pre K</tspan>
+        </text>
+        <path fill="#00D3E4" d="M115 214h164v30H115zM289 171h164v30H289zM464 121h164v30H464z"/>
+        <path fill="#FFC52A" d="M649 65h164v30H649zM824 42h164v30H824z"/>
+        <path fill="#DB6D8A" d="M998 10h164v30H998z"/>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="169.489" y="239">1단계</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="344.489" y="196">2단계</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="517.489" y="146">3단계</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="703.489" y="90">4단계</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="878.489" y="67">5단계</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="1053.489" y="35">6단계</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="111" y="271">말하기: 문자,숫자,인사말, 간</tspan> <tspan x="111" y="292">단질문</tspan>  <tspan x="111" y="334">듣기: 알파벳,숫자,단순지시, </tspan> <tspan x="111" y="355">간단응답</tspan>  <tspan x="111" y="397">발음: 청크,음소,일음절구조</tspan>  <tspan x="111" y="439">문법: Be 동사 / Do 동사, 주격</tspan> <tspan x="111" y="460">대명사, 의문사, 단/복수, 간단</tspan> <tspan x="111" y="481">문장구조</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="286" y="233">말하기: 친숙단어스펠링,</tspan> <tspan x="286" y="254">숫자활용, 간단설명</tspan>  <tspan x="286" y="296">듣기: 문자인식, 알파벳, 숫자, </tspan> <tspan x="286" y="317">단순 지시 만들기, 인사말</tspan>  <tspan x="286" y="359">발음: 청크,음소,억양</tspan>  <tspan x="286" y="401">문법: 고빈도 동사, 현재형, 과</tspan> <tspan x="286" y="422">거형, 단순접속사, 고빈도부사</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="459" y="183">말하기: 시각단어(Sight </tspan> <tspan x="459" y="204">word) 스펠링, 일상 질문에 대</tspan> <tspan x="459" y="225">한 대답, 이해를 위한 모니터</tspan> <tspan x="459" y="246">링, 좋아하는 것과 싫어하는 것</tspan>  <tspan x="459" y="288">듣기: 상황에 따른 주요 어휘, </tspan> <tspan x="459" y="309">시각단어, 기본질문의 변형, 다</tspan> <tspan x="459" y="330">차원 지시</tspan>  <tspan x="459" y="372">발음: 음절 악센트, 끝 음절 S억</tspan> <tspan x="459" y="393">양, 청크 연결</tspan>  <tspan x="459" y="435">문법: 현재진행, 불규칙 동사, </tspan> <tspan x="459" y="456">축약형</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="645" y="129">말하기: 간단설명, 친숙어휘 활</tspan> <tspan x="645" y="150">용하여 질문하기, 2차원 지시, </tspan> <tspan x="645" y="171">짧은 이야기를 다시 말해보기, </tspan> <tspan x="645" y="192">간단 의견 표현하기</tspan>  <tspan x="645" y="234">듣기: 간단 대화에 적절한 반</tspan> <tspan x="645" y="255">응, 질문, 2차원 지시에 따르기, </tspan> <tspan x="645" y="276">맥락 실마리 잡기, 공식/비공</tspan> <tspan x="645" y="297">식적 상황</tspan>  <tspan x="645" y="339">발음: 음소이해, 다음절 강세, </tspan> <tspan x="645" y="360">끝 음절 S억양, 장모음 / 단모</tspan> <tspan x="645" y="381">음, 과거형 - ed</tspan>  <tspan x="645" y="423">문법: 단순과거형, 미래형, 현</tspan> <tspan x="645" y="444">재완료, 단순조동사, 비교급/</tspan> <tspan x="645" y="465">최상급</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="820" y="117">말하기: 익숙하지 않는 맥락에 </tspan> <tspan x="820" y="138">대해 표현하고 질문하기, 2,3</tspan> <tspan x="820" y="159">차원 상세 지시, 만족/동의, 간</tspan> <tspan x="820" y="180">단 묘사, 의견 말하기</tspan>  <tspan x="820" y="222">듣기: 설명을 이해하기, 질문하</tspan> <tspan x="820" y="243">기, 관용구, 주요상세 표현 잡</tspan> <tspan x="820" y="264">아내기, 중문, 사실/의견</tspan>  <tspan x="820" y="306">발음: “중성모음”, 끝음절, 구 </tspan> <tspan x="820" y="327">구분하기, 문장 강세</tspan>  <tspan x="820" y="369">문법: 과거의 습관, 현재완료, </tspan> <tspan x="820" y="390">과거진행, 조동사, 조건절, 수</tspan> <tspan x="820" y="411">동태</tspan>
+        </text>
+        <text fill="#393939" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14" letter-spacing="-.875" transform="translate(7 -3)">
+            <tspan x="995" y="117">말하기: 일화, 상세한 다차원 </tspan> <tspan x="995" y="138">지시, 다양한 문장 패턴, 고빈</tspan> <tspan x="995" y="159">도 관용구, 설득하기</tspan>  <tspan x="995" y="201">듣기: 사회적 단서, 대화패턴, </tspan> <tspan x="995" y="222">관용적 표현, 상세 서술 파악하</tspan> <tspan x="995" y="243">기, 다차원 지시</tspan>  <tspan x="995" y="285">발음: 새로운 단어의 “강세 추</tspan> <tspan x="995" y="306">측법”, 끝음절, 끊어읽기, 대화</tspan> <tspan x="995" y="327">관리 (끼어들기)</tspan>  <tspan x="995" y="369">문법: 현재완료, 진행, 완료조</tspan> <tspan x="995" y="390">동사, 동명사와 부정사, 변환방</tspan> <tspan x="995" y="411">법</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="350.85" y="527">K-1</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="525.93" y="527">1-2</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="710.93" y="527">2-4</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="885.93" y="527">3-5</tspan>
+        </text>
+        <text fill="#DB6D8A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="1063.4" y="527">6+</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="160.42" y="571">GSE 10</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="335.42" y="571">GSE 20</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="509.42" y="571">GSE 30</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="695.42" y="571">GSE 40</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="869.42" y="571">GSE 50</tspan>
+        </text>
+        <text fill="#DB6D8A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="1044.42" y="571">GSE 60</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="163.51" y="614">Pre A1</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="354.38" y="614">A1</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="527.38" y="614">A2</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="713.38" y="614">A2</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="887.38" y="614">B1</tspan>
+        </text>
+        <text fill="#DB6D8A" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="20" letter-spacing="-1" transform="translate(7 -3)">
+            <tspan x="1062.38" y="614">B2</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-size="24" font-weight="300" letter-spacing="-1.2" transform="translate(7 -3)">
+            <tspan x="344.36" y="152">Low</tspan>
+        </text>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-size="24" font-weight="300" letter-spacing="-1.2" transform="translate(7 -3)">
+            <tspan x="703.36" y="54">Low</tspan>
+        </text>
+        <text fill="#00D3E4" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-size="24" font-weight="300" letter-spacing="-1.2" transform="translate(7 -3)">
+            <tspan x="515.212" y="102">High</tspan>
+        </text>
+        <path fill="#00D3E4" d="M115 643h513v33H115zM115 539h164v2H115zM289 539h164v2H289zM464 539h164v2H464z"/>
+        <path fill="#FFC52A" d="M649 539h164v2H649zM824 539h164v2H824z"/>
+        <path fill="#DB6D8A" d="M998 539h164v2H998z"/>
+        <path fill="#00D3E4" d="M115 496h164v2H115zM289 496h164v2H289zM464 496h164v2H464z"/>
+        <path fill="#FFC52A" d="M649 496h164v2H649zM824 496h164v2H824z"/>
+        <path fill="#DB6D8A" d="M998 496h164v2H998z"/>
+        <path fill="#00D3E4" d="M115 581h164v2H115zM289 581h164v2H289zM464 581h164v2H464z"/>
+        <path fill="#FFC52A" d="M649 581h164v2H649zM824 581h164v2H824z"/>
+        <path fill="#DB6D8A" d="M998 581h164v2H998z"/>
+        <path fill="#00D3E4" d="M115 624h164v4H115zM289 624h164v4H289zM464 624h164v4H464z"/>
+        <path fill="#FFC52A" d="M649 624h164v4H649zM824 624h164v4H824z"/>
+        <path fill="#DB6D8A" d="M998 624h164v4H998z"/>
+        <path fill="#FFC52A" d="M649 643h339v33H649z"/>
+        <path fill="#DB6D8A" d="M999 643h163v33H999z"/>
+        <text fill="#FFC52A" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-size="24" font-weight="300" letter-spacing="-1.2" transform="translate(7 -3)">
+            <tspan x="876.212" y="28">High</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="338.51" y="669">기초반</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="788.51" y="669">중급반</tspan>
+        </text>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="18" font-weight="bold" letter-spacing="-.9" transform="translate(7 -3)">
+            <tspan x="1050.51" y="669">고급반</tspan>
+        </text>
+        <text fill="#676767" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-.7" transform="translate(7 -3)">
+            <tspan x="36.802" y="268">중점 스킬</tspan>
+        </text>
+        <text fill="#676767" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-.7" transform="translate(7 -3)">
+            <tspan x="39.28" y="524">학년수준</tspan>
+        </text>
+        <text fill="#676767" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-.7" transform="translate(7 -3)">
+            <tspan x=".262" y="568">글로벌 영어수준</tspan>
+        </text>
+        <text fill="#676767" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-.7" transform="translate(7 -3)">
+            <tspan x="39.28" y="611">자격수준</tspan>
+        </text>
+    </g>
+</svg>

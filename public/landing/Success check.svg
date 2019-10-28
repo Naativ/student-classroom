@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Success check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="naativ_desktop_modal-success" transform="translate(-697.000000, -585.000000)" stroke="#379AE5" stroke-width="3">
+            <g id="Success-check" transform="translate(699.000000, 587.000000)">
+                <circle id="Oval" cx="17" cy="17" r="17"></circle>
+                <polyline id="Path-5" stroke-linecap="round" stroke-linejoin="round" points="11 17.90625 15.46875 22.375 24 11"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

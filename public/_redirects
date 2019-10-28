@@ -1,0 +1,28 @@
+# Redirecting based on country geoip
+# /* /:splat?lang=ko 302! Country=kr
+# /* /:splat?lang=ja 302! Country=jp
+# /* /:splat?lang=pt 302! Country=br
+
+# redurectung based on accept-language header
+# /* /:splat?lang=ko 302! Language=ko
+# /* /:splat?lang=ja 302! Language=ja
+# /* /:splat?lang=pt 302! Language=pt
+
+# redirecting for language purposes
+http://kr.naativ.com/*  https://www.naativ.com/:splat?lang=ko 302!
+http://zh.naativ.com/*  https://www.naativ.com/:splat?lang=zh 302!
+http://br.naativ.com/*  https://www.naativ.com/:splat?lang=pt 302!
+http://jp.naativ.com/*  https://www.naativ.com/:splat?lang=ja 302!
+http://en.naativ.com/*  https://www.naativ.com/:splat?lang=en 302!
+http://th.naativ.com/*  https://www.naativ.com/:splat?lang=th 302!
+http://vi.naativ.com/*  https://www.naativ.com/:splat?lang=vi 302!
+https://kr.naativ.com/* https://www.naativ.com/:splat?lang=ko 302!
+https://zh.naativ.com/* https://www.naativ.com/:splat?lang=zh 302!
+https://br.naativ.com/* https://www.naativ.com/:splat?lang=pt 302!
+https://jp.naativ.com/* https://www.naativ.com/:splat?lang=ja 302!
+https://en.naativ.com/* https://www.naativ.com/:splat?lang=en 302!
+https://th.naativ.com/* https://www.naativ.com/:splat?lang=th 302!
+https://vi.naativ.com/* https://www.naativ.com/:splat?lang=vi 302!
+
+# this allows single page apps to work
+/*    /index.html   200
